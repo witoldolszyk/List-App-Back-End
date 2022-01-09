@@ -15,4 +15,4 @@ On Windows:
 
 Use command-line interface.
 
-In DjangoAPI use command 'python manage.pu runserver'
+In DjangoAPI use command 'python manage.py runserver'
